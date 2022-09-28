@@ -9,7 +9,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.66cbe2dafb5222aeb09a.js",
+        "load": "static/remoteEntry.1116b848a6f7126bf3e9.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -69,13 +69,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.40d7ace9569529c50584.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.be0f250473ab8848c05a.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
